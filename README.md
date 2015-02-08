@@ -1,37 +1,10 @@
 # Sum-big-numbers-Asm
 http://sorokin.github.io/cpp-year2013/task-1.html
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <title>Задание №1</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <style type="text/css">
-      .codeblock
-      {
-        background: #e0e0e0;
-        border: solid 1px black;
-        padding: 5px;
-        font-family: monospace;
-      }
-      .codein
-      {
-        font-family: monospace;
-      }
-    td.numbers {text-align: right;}
-    td.names {text-align: left;}
-    td {text-align: center;}
-    tr.odd {background-color: #e0e0e0;}
-    img.centered {display: block; margin-left: auto; margin-right: auto;}
-    sup:target {background-color: #def;}
-    li:target {background-color: #def;}
-    p {font-family:'Liberation Sans', sans-serif; font-size: 10pt;}
-    li {font-family:'Liberation Sans', sans-serif; font-size: 10pt;}
-    h2 {font-family:'Liberation Sans', sans-serif;}
-    h3 {font-family:'Liberation Sans', sans-serif;}
-    h4 {font-family:'Liberation Sans', sans-serif;}
-    </style>
+   
   </head>
   <body>
     <h2>Задание №1</h2>
