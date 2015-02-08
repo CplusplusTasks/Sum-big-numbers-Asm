@@ -1,0 +1,2 @@
+/home/eugene/Desktop/c++/assembler/CMakeFiles/mul.dir
+/home/eugene/Desktop/c++/assembler/CMakeFiles/sub.dir
